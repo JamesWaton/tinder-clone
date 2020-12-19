@@ -1,6 +1,7 @@
 # tinder-clone
 Full tinder clone
 Hosted on: https://tinder-clone-b1bdc.web.app/
+Made with help from: https://www.youtube.com/watch?v=ktjafK4SgWM
 
 To start off in my code I have comments that go into most functions in detail unless they are the usual obvious functions. So here I will be giving a basic overview of how and why I made the app. The reason behind creating this tinder clone was to learn how to connect the mongoDB when using visual studio code as all my previous projects had been made using either glitch or repl.it as they were incredibly easy to use and being the only two I had been taught to use. 
 
